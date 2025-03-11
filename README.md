@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently new graduate from RMUTT in Thailand
-
+https://merrai333.github.io/my_portfolio/?lg=TH
+[Portfolio page](https://merrai333.github.io/my_portfolio/?lg=TH)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/methit-sompitak-2545452b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mm.methit@gmail.com) 
