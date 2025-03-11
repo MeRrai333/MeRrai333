@@ -1,6 +1,5 @@
 # 💫 About Me:
 I'm currently new graduate from RMUTT in Thailand
-https://merrai333.github.io/my_portfolio/?lg=TH
 [Portfolio page](https://merrai333.github.io/my_portfolio)
 
 ## 🌐 Socials:
